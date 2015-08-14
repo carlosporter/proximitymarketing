@@ -1,0 +1,1 @@
+We have an external wiki now at www.openproximity.org
